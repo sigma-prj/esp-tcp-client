@@ -89,6 +89,7 @@ http://www.sigmaprj.com/esp8266-tcp-client-server.html
 This demo example suggests having 3 push buttons used as GPIO PINs (12, 13, 14) input.
 
 Application demo video is also available at the following YouTube link (starting at 27:09):
+https://www.youtube.com/watch?v=1Z2kSx1YNiA&t=1629
 
 License
 -----------------------------
